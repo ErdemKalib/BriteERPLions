@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b800bae8-048a-4353-ade1-9c96d501f793" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Brite_ERP.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/brite/pages/crm/CRMPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/brite/pages/crm/CRMPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/screenshots/ 2019_08_01_1_26/ScreenShot_ 2019_08_01_1_26_15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/screenshots/ 2019_08_01_1_27/ScreenShot_ 2019_08_01_1_27_36.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/screenshots/ 2019_08_01_1_37/ScreenShot_ 2019_08_01_1_37_28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/brite/tests/components/crm/CRMTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/brite/tests/components/crm/CRMTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,11 +18,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/brite/tests/components/login/LoginTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
+            <state relative-caret-position="132">
               <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/brite/tests/components/crm/CRMTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,9 +66,9 @@
         <option value="$PROJECT_DIR$/src/test/java/com/brite/utilities/BriteUtils.java" />
         <option value="$PROJECT_DIR$/configuration.properties" />
         <option value="$PROJECT_DIR$/src/test/java/com/brite/utilities/TestBase.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/brite/tests/components/crm/CRMTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/brite/utilities/Driver.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/brite/pages/crm/CRMPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/brite/tests/components/crm/CRMTests.java" />
       </list>
     </option>
   </component>
@@ -72,11 +79,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1502" />
-    <option name="y" value="398" />
-    <option name="width" value="1533" />
-    <option name="height" value="791" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1928" />
+    <option name="y" value="-103" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -186,6 +193,18 @@
               <item name="brite" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Brite_ERP_Lions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Brite_ERP_Lions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="brite" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="crm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Brite_ERP_Lions" type="b2602c69:ProjectViewProjectNode" />
@@ -379,9 +398,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1502" y="398" width="1533" height="791" extended-state="0" />
+    <frame x="-1928" y="-103" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27027026" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21354167" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -390,7 +410,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4984375" visible="true" weight="0.4852941" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4984375" visible="true" weight="0.34554973" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39968404" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -445,16 +465,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
           <caret line="54" column="32" selection-start-line="52" selection-start-column="28" selection-end-line="54" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/brite/tests/components/crm/CRMTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="55" column="52" selection-start-line="55" selection-start-column="52" selection-end-line="55" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -520,8 +530,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/brite/tests/components/login/LoginTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
+        <state relative-caret-position="132">
           <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/brite/tests/components/crm/CRMTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
