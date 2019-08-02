@@ -25,7 +25,7 @@ public class CRMTests extends TestBase {
     private static String expectedRevenueTableLocator = "//table//tbody//tr//td[2]";   //xpath
     private static String pivotButtonLocator = "//button[@data-view-type='pivot']";   //xpath
     private static String crmButtonLocator = "//a[@class='oe_menu_toggler']//span[contains(text(),'CRM')]";  //xpath
-
+    private static String crmButtonLocator1 = "//a[@class='oe_menu_toggler']//span[contains(text(),'CRM')]";  //xpath
 
 
 

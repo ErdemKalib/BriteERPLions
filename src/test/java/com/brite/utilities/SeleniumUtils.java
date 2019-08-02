@@ -412,11 +412,11 @@ public class SeleniumUtils {
         File source = ts.getScreenshotAs(OutputType.FILE);
         // full path to the screenshot location
         // the command below can be used for Mac
-        //String target = System.getProperty("user.dir") + "/test-output/Screenshots/" + name + date + ".png";
-        String timeString = LocalDateTime.now().format(DateTimeFormatter.ofPattern(" yyyy_MM_dd_h_mm_ss"));
-        String timeString2 = LocalDateTime.now().format(DateTimeFormatter.ofPattern(" yyyy_MM_dd_h_mm"));
-        String target = "/Users/Kursat/IdeaProjects/Brite_ERP/test-output/screenshots/"+ timeString2 +
-                        "/ScreenShot_"+ timeString +".jpg";
+        String target = System.getProperty("user.dir") + "/test-output/Screenshots/" + name + date + ".png";
+//        String timeString = LocalDateTime.now().format(DateTimeFormatter.ofPattern(" yyyy_MM_dd_h_mm_ss"));
+//        String timeString2 = LocalDateTime.now().format(DateTimeFormatter.ofPattern(" yyyy_MM_dd_h_mm"));
+//        String target = "/Users/Kursat/IdeaProjects/Brite_ERP/test-output/screenshots/"+ timeString2 +
+//                        "/ScreenShot_"+ timeString +".jpg";
         File finalDestination = new File(target);
         // save the screenshot to the path given
         try {
