@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 
 import java.util.List;
 
-public class CRMTests extends TestBase {
+public class CRMTests_old extends TestBase {
 
     private static String menuLocator = "//ul[@class='nav navbar-nav navbar-left oe_application_menu_placeholder']//li//a[starts-with(@class,'oe_menu_')]";   //xpath
     private static String oppElementLocator = "oe_kanban_color_0 oe_kanban_global_click o_kanban_record ui-sortable-handle";   //class

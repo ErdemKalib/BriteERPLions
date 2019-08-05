@@ -1,15 +1,14 @@
 package com.brite.tests.components.crm;
 
 import com.brite.pages.crm.CRMPage;
+import com.brite.pages.crm.CRMPage_old;
 import com.brite.pages.login.LoginPage;
-import com.brite.tests.components.login.LoginTests;
-import com.brite.utilities.*;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
+import com.brite.utilities.BriteUtils;
+import com.brite.utilities.ConfigurationReader;
+import com.brite.utilities.SeleniumUtils;
+import com.brite.utilities.TestBase;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
-import java.util.List;
 
 public class CRMTests extends TestBase {
 

@@ -8,7 +8,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class CRMPage {
+public class CRMPage_old {
 
     private WebDriver driver = Driver.getDriver();
 
@@ -19,7 +19,7 @@ public class CRMPage {
     public WebElement forgotPasswordElement;
 
 
-    public CRMPage(){
+    public CRMPage_old(){
         PageFactory.initElements(driver,this);
     }
 
