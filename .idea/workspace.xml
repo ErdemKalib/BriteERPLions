@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b800bae8-048a-4353-ade1-9c96d501f793" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/brite/tests/components/crm/CRMTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/brite/tests/components/crm/CRMTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/brite/utilities/SeleniumUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/brite/utilities/SeleniumUtils.java" afterDir="false" />
-    </list>
+    <list default="true" id="b800bae8-048a-4353-ade1-9c96d501f793" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,6 +12,46 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/brite/tests/components/login/LoginTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/brite/tests/components/crm/CRMTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/brite/utilities/SeleniumUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="415" column="1" lean-forward="true" selection-start-line="415" selection-start-column="1" selection-end-line="418" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,9 +75,9 @@
         <option value="$PROJECT_DIR$/src/test/java/com/brite/utilities/BriteUtils.java" />
         <option value="$PROJECT_DIR$/configuration.properties" />
         <option value="$PROJECT_DIR$/src/test/java/com/brite/utilities/TestBase.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/brite/tests/components/crm/CRMTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/brite/utilities/Driver.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/brite/pages/crm/CRMPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/brite/tests/components/crm/CRMTests.java" />
       </list>
     </option>
   </component>
@@ -52,11 +88,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="180" />
-    <option name="y" value="124" />
-    <option name="width" value="1080" />
-    <option name="height" value="612" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1928" />
+    <option name="y" value="-103" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -64,43 +100,50 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="BriteERPLions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BriteERPLions" type="462c0819:PsiDirectoryNode" />
+              <item name="Brite_ERP_Lions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Brite_ERP_Lions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BriteERPLions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BriteERPLions" type="462c0819:PsiDirectoryNode" />
+              <item name="Brite_ERP_Lions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Brite_ERP_Lions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BriteERPLions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BriteERPLions" type="462c0819:PsiDirectoryNode" />
+              <item name="Brite_ERP_Lions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Brite_ERP_Lions" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Brite_ERP_Lions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Brite_ERP_Lions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BriteERPLions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BriteERPLions" type="462c0819:PsiDirectoryNode" />
+              <item name="Brite_ERP_Lions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Brite_ERP_Lions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BriteERPLions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BriteERPLions" type="462c0819:PsiDirectoryNode" />
+              <item name="Brite_ERP_Lions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Brite_ERP_Lions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BriteERPLions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BriteERPLions" type="462c0819:PsiDirectoryNode" />
+              <item name="Brite_ERP_Lions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Brite_ERP_Lions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -108,8 +151,8 @@
               <item name="brite" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BriteERPLions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BriteERPLions" type="462c0819:PsiDirectoryNode" />
+              <item name="Brite_ERP_Lions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Brite_ERP_Lions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -118,8 +161,8 @@
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BriteERPLions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BriteERPLions" type="462c0819:PsiDirectoryNode" />
+              <item name="Brite_ERP_Lions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Brite_ERP_Lions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -129,8 +172,8 @@
               <item name="crm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BriteERPLions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BriteERPLions" type="462c0819:PsiDirectoryNode" />
+              <item name="Brite_ERP_Lions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Brite_ERP_Lions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -140,8 +183,8 @@
               <item name="login" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BriteERPLions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BriteERPLions" type="462c0819:PsiDirectoryNode" />
+              <item name="Brite_ERP_Lions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Brite_ERP_Lions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -150,8 +193,8 @@
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BriteERPLions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BriteERPLions" type="462c0819:PsiDirectoryNode" />
+              <item name="Brite_ERP_Lions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Brite_ERP_Lions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -161,8 +204,8 @@
               <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BriteERPLions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BriteERPLions" type="462c0819:PsiDirectoryNode" />
+              <item name="Brite_ERP_Lions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Brite_ERP_Lions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -173,8 +216,8 @@
               <item name="crm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BriteERPLions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BriteERPLions" type="462c0819:PsiDirectoryNode" />
+              <item name="Brite_ERP_Lions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Brite_ERP_Lions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -185,8 +228,8 @@
               <item name="login" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="BriteERPLions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BriteERPLions" type="462c0819:PsiDirectoryNode" />
+              <item name="Brite_ERP_Lions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Brite_ERP_Lions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -194,22 +237,10 @@
               <item name="brite" type="462c0819:PsiDirectoryNode" />
               <item name="utilities" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="BriteERPLions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BriteERPLions" type="462c0819:PsiDirectoryNode" />
-              <item name="test-output" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BriteERPLions" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BriteERPLions" type="462c0819:PsiDirectoryNode" />
-              <item name="test-output" type="462c0819:PsiDirectoryNode" />
-              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -233,9 +264,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.LoginTests (1)">
-    <configuration name="CRMTests (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="BriteERPLions" />
+  <component name="RunManager" selected="TestNG.LoginTests">
+    <configuration name="CRMTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Brite_ERP" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.brite.tests.components.crm.*" />
@@ -251,7 +282,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CRMTests" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CRMTests.Test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Brite_ERP" />
       <extension name="coverage">
         <pattern>
@@ -261,7 +292,8 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.brite.tests.components.crm" />
       <option name="MAIN_CLASS_NAME" value="com.brite.tests.components.crm.CRMTests" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="METHOD_NAME" value="Test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -286,23 +318,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTests (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="BriteERPLions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.brite.tests.components.login.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.brite.tests.components.login" />
-      <option name="MAIN_CLASS_NAME" value="com.brite.tests.components.login.LoginTests" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LoginTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Brite_ERP" />
       <extension name="coverage">
@@ -320,13 +335,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LoginTests.loginTest1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Brite_ERP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brite.tests.components.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.brite.tests.components.login" />
+      <option name="MAIN_CLASS_NAME" value="com.brite.tests.components.login.LoginTests" />
+      <option name="METHOD_NAME" value="loginTest1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LoginTests (1)" />
-        <item itemvalue="TestNG.CRMTests (1)" />
         <item itemvalue="TestNG.LoginTests" />
         <item itemvalue="TestNG.CRMTests" />
         <item itemvalue="TestNG.CRMTests.Test2" />
+        <item itemvalue="TestNG.CRMTests.Test1" />
+        <item itemvalue="TestNG.LoginTests.loginTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -384,9 +417,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="93" y="54" width="1168" height="746" extended-state="0" />
+    <frame x="-1928" y="-103" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24955595" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21354167" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -395,7 +429,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4984375" visible="true" weight="0.4852941" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4984375" weight="0.34554973" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39968404" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -429,31 +463,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Double.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Double.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="542" column="31" selection-start-line="542" selection-start-column="31" selection-end-line="542" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/brite/utilities/BriteUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1615">
           <caret line="99" column="9" selection-start-line="98" selection-start-column="39" selection-end-line="99" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/brite/utilities/SeleniumUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="54" column="32" selection-start-line="52" selection-start-column="28" selection-end-line="54" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/brite/tests/components/crm/CRMTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="55" column="52" selection-start-line="55" selection-start-column="52" selection-end-line="55" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -519,8 +539,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/brite/tests/components/login/LoginTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
+        <state relative-caret-position="132">
           <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/brite/tests/components/crm/CRMTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/brite/utilities/SeleniumUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="415" column="1" lean-forward="true" selection-start-line="415" selection-start-column="1" selection-end-line="418" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
