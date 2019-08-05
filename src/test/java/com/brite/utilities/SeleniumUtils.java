@@ -14,6 +14,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.TimeUnit;
 
 import static org.testng.AssertJUnit.assertTrue;
 
@@ -346,7 +347,7 @@ public class SeleniumUtils {
     //////////////////////  WAIT PLEASE    /////////////////////////////////////
     public static void waitPlease(int seconds){
         try{
-            Thread.sleep(seconds*1000);
+            Thread.sleep(seconds*3000);
         }
         catch (Exception e){
             System.out.println(e.getMessage());

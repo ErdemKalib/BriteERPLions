@@ -104,7 +104,7 @@ public class CRMTests extends TestBase {
         }
         // compare the value (which was the second item's value in Pivot View) with same item's value in the list view
         Assert.assertEquals(value, revenueElementList.get(location).getText());
-        SeleniumUtils.waitPlease(5);
+        SeleniumUtils.waitPlease(3);
     }
 
 
